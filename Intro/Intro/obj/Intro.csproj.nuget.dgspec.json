@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WebApps\\.NET\\Intro\\Intro\\Intro.csproj": {}
+    "D:\\WebApps\\.NET\\2024DeveloperCamp\\Intro\\Intro\\Intro.csproj": {}
   },
   "projects": {
-    "D:\\WebApps\\.NET\\Intro\\Intro\\Intro.csproj": {
+    "D:\\WebApps\\.NET\\2024DeveloperCamp\\Intro\\Intro\\Intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebApps\\.NET\\Intro\\Intro\\Intro.csproj",
+        "projectUniqueName": "D:\\WebApps\\.NET\\2024DeveloperCamp\\Intro\\Intro\\Intro.csproj",
         "projectName": "Intro",
-        "projectPath": "D:\\WebApps\\.NET\\Intro\\Intro\\Intro.csproj",
+        "projectPath": "D:\\WebApps\\.NET\\2024DeveloperCamp\\Intro\\Intro\\Intro.csproj",
         "packagesPath": "C:\\Users\\alpte\\.nuget\\packages\\",
-        "outputPath": "D:\\WebApps\\.NET\\Intro\\Intro\\obj\\",
+        "outputPath": "D:\\WebApps\\.NET\\2024DeveloperCamp\\Intro\\Intro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alpte\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
